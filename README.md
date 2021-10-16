@@ -7,6 +7,6 @@ I am **Rabia Basari**, from Hyderabad.I am a Full Stack Web Developer, skilled i
 * Passionate about my work.
 * Aiming to become better developer with each passing day.
 
-# How to reach me?
+# ✈️ How to reach me?
 📲 +91 9492 488 994
 📧 rabiabasari7@gmail.com
