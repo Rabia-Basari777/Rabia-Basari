@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-fbfPpxykESA/WZK1_GUA3uI/AAAAAAABHTE/OSO00muQP1IdnvKEyyLZu0OxjaUbZR8ZQCK4BGAYYCw/s1600/Best-Firefox-Addons-for-Web-Design.png" height="350px" width="100%"/>
+<img src="https://media.gettyimages.com/vectors/female-office-worker-vector-id165967112?k=20&m=165967112&s=612x612&w=0&h=BRIFwfssWhYBE5WuxqryDjG6rDkd-bMS_qtXiJHHHXA=" height="350px" width="100%"/>
 
 # Hi there 👋 
 I am **Rabia Basari**, from Hyderabad.I am a Full Stack Web Developer, skilled in ReactJs, NodeJs, ExpressJs, MongoDB, JavaScript, HTML, CSS and Data Structures and Algorithms.
